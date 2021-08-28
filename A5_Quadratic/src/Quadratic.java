@@ -30,7 +30,6 @@ discriminant() returns the discriminant value of the equation.
 
  */
 
-
 public class Quadratic {
 	
 	private double a = 1;

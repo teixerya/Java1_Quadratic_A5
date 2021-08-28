@@ -13,7 +13,6 @@ Tester class should also try-catch the exceptions
 //Import Scanner in the java.util package
 import A_5V2.Quadratic;
 
-import java.util.Scanner; //Scanner is a class
 
 class TestQuadratic{
 
